@@ -1,0 +1,397 @@
+[0608/022643:ERROR:browser_main_loop.cc(203)] Running without the SUID sandbox! See https://code.google.com/p/chromium/wiki/LinuxSUIDSandboxDevelopment for more information on developing with the sandbox on.
+[0608/022643:ERROR:main_delegate.cc(764)] Could not load cef_extensions.pak
+[0608/022643:ERROR:main_delegate.cc(764)] Could not load cef_extensions.pak
+00:26:44.018 I [mpris.cpp:304                   ] Received MPRIS MediaPlayer2.Player 'Get' request, but no metadata is available
+00:26:44.403 I [dns.cpp:63                      ] resolved apresolve.spotify.com to 194.132.162.247
+00:26:44.403 I [dns.cpp:63                      ] resolved apresolve.spotify.com to 194.132.162.236
+00:26:44.403 I [dns.cpp:63                      ] resolved apresolve.spotify.com to 194.132.162.201
+00:26:44.403 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:1279076593:rootlist] Creating context
+00:26:44.403 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:1279076593:publishedrootlist] Creating context
+00:26:44.421 D [gaia_manager.cpp:705            ] GAIA: TIMING(8802055) GaiaManager::start, _service_status=kServiceStatusStopped
+00:26:44.421 D [gaia_manager.cpp:1063           ] GAIA: TIMING(8802055) GaiaManager::sendSubscribe
+00:26:44.421 D [gaia_manager.cpp:363            ] GAIA: GaiaManager::stateTransition, kServiceStatusStopped->kServiceStatusInSubscribeTx
+00:26:44.427 I [sliding_window_prefetch_strategy.cpp:212] Prefetch: looks like new context - resetting window size to 1
+00:26:44.436 5 [playlist_be_pl4.cpp:547         ] synchronizePlaylistContainer 'spotify:user:1279076593:publishedrootlist'
+00:26:44.436 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:spotify:playlist:0n8NtBn89HS9sSKJEnJijg] Creating context
+00:26:44.436 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:1279076593:playlist:0f5Dfq3NhRiotgyFrfkpmq] Creating context
+00:26:44.436 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:1279076593:playlist:4JPICJwHeblgokvs3tVkZr] Creating context
+00:26:44.436 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:1281334351:playlist:4Mi7fcP81DtjULFyFNMPL9] Creating context
+00:26:44.436 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:1281334351:playlist:6gQZwHQnnFvBBjY2h1BKn1] Creating context
+00:26:44.436 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:1126175754:playlist:1mdvqb7RjyMECxONwCRppc] Creating context
+00:26:44.436 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:1281334351:playlist:3x1952girfpqpQBLBl4jXd] Creating context
+00:26:44.437 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:spotify:playlist:0UHbhCjKlXnFfv98bKrtKv] Creating context
+00:26:44.437 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:1238963141:playlist:1TVJEBgJiSdiYUBX2y82Ya] Creating context
+00:26:44.437 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:lmljoe:playlist:0DXoY83tBvgWkd8QH49yAI] Creating context
+00:26:44.437 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:1279076593:playlist:1uBRMxheURhPxP4zfdpeRp] Creating context
+00:26:44.437 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:spotify:playlist:3i3jnTWkJKqDTJHkUSZsRl] Creating context
+00:26:44.437 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:spotify:playlist:59ZbFPES4DQwEjBpWHzrtC] Creating context
+00:26:44.437 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:1279076593:playlist:2fediZ7jxisnQsHBFK6pfa] Creating context
+00:26:44.437 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:spotify:playlist:0eDq2STmk8tKcD7qWCwrze] Creating context
+00:26:44.437 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:mikexray:playlist:1qFMybGrDz6i7X7bsec7cV] Creating context
+00:26:44.437 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:spotify:playlist:0PRs1Xaui4zCv9LdIIt20X] Creating context
+00:26:44.437 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:spotify:playlist:2clF8IuETuB6DzmQn7I4RM] Creating context
+00:26:44.437 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:1213530957:playlist:78NNe9mWfoh2AJ10WFZv8U] Creating context
+00:26:44.437 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:1279076593:playlist:0C5B0DbVSAAAzcZjNNyVVW] Creating context
+00:26:44.437 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:gecman:playlist:0yQODxKG6Dbh0v0787KzM7] Creating context
+00:26:44.437 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:1279076593:playlist:540oN4FhQoj25pLOIVrVxU] Creating context
+00:26:44.437 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:igor.murta:playlist:4Gq5IiN5u12rb5NhKUx37R] Creating context
+00:26:44.437 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:1279076593:playlist:0HSkd8b4ci0av4e3Fe9K3v] Creating context
+00:26:44.438 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:spotify:playlist:7ECmf74Ey57LAYulSxhL9w] Creating context
+00:26:44.438 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:spotify:playlist:3dPHWfYO3veKpIpmYKNb2c] Creating context
+00:26:44.438 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:1279076593:playlist:10g0AOdRhXOaTdRjL2Aqkq] Creating context
+00:26:44.438 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:spotify:playlist:1OVd37JBX6WIJETW9KHa8B] Creating context
+00:26:44.438 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:spotify:playlist:0geFu4KbbAGl6Fteod0QoW] Creating context
+00:26:44.438 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:spotify:playlist:2gbwwfwbiWVnNmWZ3Zsy3l] Creating context
+00:26:44.438 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:spotifybrazilian:playlist:6vk0xediX3tmx8dj7zJe8V] Creating context
+00:26:44.438 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:bbc_playlister:playlist:4TbTH6Rk95yJWZbbUnKNQd] Creating context
+00:26:44.438 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:118614068:playlist:0dQ61ukvtuLN7IZybJECZB] Creating context
+00:26:44.438 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:1279076593:playlist:0auH6uXhhA2OFiTKMNbd2S] Creating context
+00:26:44.438 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:spotify_espa%C3%B1a:playlist:0ua0EfirvWuvwuDfAwiQDR] Creating context
+00:26:44.438 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:1279076593:playlist:05iUTNkpRk7z4xqqZBuoeb] Creating context
+00:26:44.438 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:1279076593:playlist:440tXVLTwhgYpQim3uTaWJ] Creating context
+00:26:44.438 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:spotifybrazilian:playlist:3a4z1dwb3tfpK2ZzKjuGno] Creating context
+00:26:44.438 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:1279076593:playlist:0kuQ17CDON2is9qquBFM51] Creating context
+00:26:44.438 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:spotify:playlist:6dVqCKDI6gqOaMvVQaJTco] Creating context
+00:26:44.438 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:hollywdrecrds:playlist:1xY6msLHX1W34EzB0UkkbU] Creating context
+00:26:44.438 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:1279076593:playlist:7bcho7bMpnZcMdMsY3kHki] Creating context
+00:26:44.438 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:125897370:playlist:1M9EMLYcGmYIZIxsLT7894] Creating context
+00:26:44.438 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:emsc:playlist:6b2Bx6SUjto5zQk6QlkqJc] Creating context
+00:26:44.438 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:spotify:playlist:3J3mTk0N0NzDOFgnp67Z75] Creating context
+00:26:44.439 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:1279076593:playlist:2hR2ijRF6vMiEGxVyAfdUg] Creating context
+00:26:44.439 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:robbyablind:playlist:21K7uTrxXyRsBmiMOU1REV] Creating context
+00:26:44.439 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:1279076593:playlist:5mWZtFEtGxfAdhcP96BeI8] Creating context
+00:26:44.439 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:1279076593:playlist:2B0s3ZfHC3R7FSnqiCAWof] Creating context
+00:26:44.439 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:1279076593:playlist:0ajU4y8ZgwJAMKgrgpHEn7] Creating context
+00:26:44.439 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:1281334351:playlist:02ao9s7ZL8RlaYYXAIesDR] Creating context
+00:26:44.439 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:1279076593:playlist:2MidnfTM0uPcLUc2g3v5Mm] Creating context
+00:26:44.439 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:1279076593:playlist:2rSORF9OhkxuHo3jLVGCsV] Creating context
+00:26:44.439 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:1279076593:playlist:37GCu2mjJXMG8UJmRLRiqR] Creating context
+00:26:44.439 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:1279076593:playlist:2qa7Mt9K55UDBEmDFdyg5H] Creating context
+00:26:44.439 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:1279076593:playlist:5JGdm2myhOv2Mkv9S40jv0] Creating context
+00:26:44.439 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:1279076593:playlist:73Miy0RL0A2SEWY8ztN7yf] Creating context
+00:26:44.439 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:1279076593:playlist:5NWCXmwTPCY9qstsZzfTuX] Creating context
+00:26:44.439 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:1279076593:playlist:7981Z8QsGomv1tRF3vwflF] Creating context
+00:26:44.439 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:1279076593:playlist:46h9I4hLjhBmHbrIWyzLqy] Creating context
+00:26:44.439 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:1279076593:playlist:3TYf3ppBbUbhGk4caxR5if] Creating context
+00:26:44.439 3 [playlist_be_pl4_context.cpp:305 ] [spotify:user:1279076593:publishedrootlist] Synchronization starting: DIFF (from revision 407,4461484f8a83a28d262a6ae52c9a752e877266f0) 
+00:26:44.439 5 [playlist_be_pl4.cpp:547         ] synchronizePlaylistContainer 'spotify:user:1279076593:rootlist'
+00:26:44.440 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:1279076593:playlist:5yHCE1vkVJs3yYF0ZRlTBg] Creating context
+00:26:44.440 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:spotifydiscover:playlist:4CkJJTPqjYJJQhpRi8QRHJ] Creating context
+00:26:44.440 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:spotifydiscover:playlist:6JKtj1KTUkM1RhUivWQGKQ] Creating context
+00:26:44.440 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:shadowfunk:playlist:744IjzkUZtUOBhQfBmyvkl] Creating context
+00:26:44.440 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:spotify:playlist:1IQ5Nsj6d90qqEonwBQ8nh] Creating context
+00:26:44.440 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:1279076593:playlist:12eb7gPw6cuICtTwG7TUkS] Creating context
+00:26:44.440 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:1279076593:playlist:4PUMyQVIFXYwsHwH11jL40] Creating context
+00:26:44.440 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:spotify:playlist:66oi6TpdQHk3kS7ZHOx8gX] Creating context
+00:26:44.440 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:dewanderer:playlist:601WLbJ3Vj91XIugGUJNUe] Creating context
+00:26:44.440 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:spotify:playlist:2ujjMpFriZ2nayLmrD1Jgl] Creating context
+00:26:44.440 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:1111694522:playlist:4Sx0hSNCZRGxdb7HE5rzNv] Creating context
+00:26:44.440 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:listen.enjoy:playlist:63J3Nayal3EgiGSOBsx62T] Creating context
+00:26:44.441 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:chillhopmusic:playlist:5eDufIy8WtiArgp9aPd9su] Creating context
+00:26:44.441 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:11129521534:playlist:2zzTFNXAwzjFcLYqSAfffj] Creating context
+00:26:44.441 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:freezamusic-nc:playlist:4RsFxkjLngn1h4nWfQHrNC] Creating context
+00:26:44.441 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:spotify:playlist:1LJXEmcLGYTz7mmPgnGR6C] Creating context
+00:26:44.441 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:1279076593:playlist:1ul4yUNWQV9A3UcXFP8Shc] Creating context
+00:26:44.441 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:1279076593:playlist:1yqr8OosDEFYxA3GbqHQbY] Creating context
+00:26:44.441 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:1279076593:playlist:7MUfal4tRZmTuor3vZTyt2] Creating context
+00:26:44.442 3 [playlist_be_pl4_context.cpp:305 ] [spotify:user:1279076593:rootlist] Synchronization starting: DIFF (from revision 407,4461484f8a83a28d262a6ae52c9a752e877266f0) 
+00:26:44.444 I [offline_manager.cpp:2681        ] Storage has been cleaned
+00:26:44.451 I [gaia_hermes_channel.cpp:116     ] GAIA: GaiaHermesChannel::send, failed query response_code=38
+00:26:44.453 5 [playlist_be_pl4_context.cpp:196 ] [spotify:user:1279076593:publishedrootlist] 'DIFF' request complete
+00:26:44.453 3 [playlist_be_pl4_context.cpp:489 ] [spotify:user:1279076593:publishedrootlist]  synchronization error: non hermes error
+00:26:44.453 3 [playlist_be_pl4_context.cpp:510 ] [spotify:user:1279076593:publishedrootlist]   - transient error, retrying.
+00:26:44.453 5 [playlist_be_pl4_context.cpp:196 ] [spotify:user:1279076593:rootlist] 'DIFF' request complete
+00:26:44.453 3 [playlist_be_pl4_context.cpp:489 ] [spotify:user:1279076593:rootlist]  synchronization error: non hermes error
+00:26:44.453 3 [playlist_be_pl4_context.cpp:510 ] [spotify:user:1279076593:rootlist]   - transient error, retrying.
+00:26:44.489 I [ap_connection_impl.cpp:489      ] Connecting to AP sto3-accesspoint-a79.ap.spotify.com:4070
+00:26:44.530 I [dns.cpp:63                      ] resolved sto3-accesspoint-a79.ap.spotify.com to 193.182.7.21
+00:26:44.570 I [ap_connection_impl.cpp:139      ] Connected to AP: 193.182.7.21:4070
+00:26:44.949 5 [playlist_backend.cpp:301        ] PlaylistBackendManager::resyncDelayedPlaylistNow(spotify:user:spotify_espa%C3%B1a:playlist:0ua0EfirvWuvwuDfAwiQDR)
+00:26:44.951 3 [playlist_be_pl4_context.cpp:305 ] [spotify:user:spotify_espa%C3%B1a:playlist:0ua0EfirvWuvwuDfAwiQDR] Synchronization starting: DIFF (from revision 111,b644eb82965c075f348f86e6dec21a392cab9cd8) 
+00:26:44.962 E [network.cpp:45                  ] failed to create socket
+00:26:44.962 E [network.cpp:48                  ] failed to set SockoptReuseAddr
+00:26:44.962 E [network.cpp:51                  ] failed to set SockoptReusePort
+00:26:44.962 E [network.cpp:45                  ] failed to create socket
+00:26:44.962 E [network.cpp:48                  ] failed to set SockoptReuseAddr
+00:26:44.962 E [network.cpp:51                  ] failed to set SockoptReusePort
+00:26:45.111 I [ap_connection_impl.cpp:337      ] AP login complete, len 0
+00:26:45.164 D [gaia_manager.cpp:705            ] GAIA: TIMING(8802799) GaiaManager::start, _service_status=kServiceStatusInSubscribeTx
+00:26:45.194 I [audio_driver_linux.cpp:20       ] Using PulseAudio
+00:26:45.195 I [audio_player_queue_impl.cpp:236 ] Pause driver: 0x000034c398025d20
+00:26:45.195 I [audio_player_queue_entry.cpp:288] Buffering changed for entry: 0x000034c396f01800, 1
+00:26:45.195 I [audio_player_queue_impl.cpp:312 ] fade in at -1 for -1 milliseconds, fade out at -1 for -1 milliseconds
+00:26:45.196 I [audio_player_queue_impl.cpp:628 ] Open driver: 0x000034c398025d20
+00:26:45.197 I [sliding_window_prefetch_strategy.cpp:212] Prefetch: looks like new context - resetting window size to 1
+00:26:45.206 I [audio_player_queue_entry.cpp:288] Buffering changed for entry: 0x000034c396f01800, 0
+00:26:45.206 I [audio_player_queue_impl.cpp:765 ] Start playback on driver: 0x000034c398025d20
+00:26:45.208 5 [playlist_be_pl4_context.cpp:196 ] [spotify:user:spotify_espa%C3%B1a:playlist:0ua0EfirvWuvwuDfAwiQDR] 'DIFF' request complete
+00:26:45.208 3 [playlist_be_pl4_context.cpp:801 ] [spotify:user:spotify_espa%C3%B1a:playlist:0ua0EfirvWuvwuDfAwiQDR] Delta-updated to revision 111,b644eb82965c075f348f86e6dec21a392cab9cd8 (no new changes)
+00:26:45.397 I [sliding_window_prefetch_strategy.cpp:117] Prefetch window maxed and full, waiting for 0 track changes
+00:26:45.530 D [gaia_manager.cpp:1078           ] GAIA: TIMING(8803164) GaiaManager::onSubscriptionSuccess
+00:26:45.530 D [gaia_manager.cpp:363            ] GAIA: GaiaManager::stateTransition, kServiceStatusInSubscribeTx->kServiceStatusRunning
+00:26:45.530 D [gaia_manager.cpp:1170           ] GAIA: TIMING(8803164) GaiaManager::sendHelloHelper
+00:26:46.133 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:spotifydiscover:playlist:1apxlwPVhHJzpXIbaitlx2] Creating context
+00:26:46.133 5 [playlist_backend.cpp:301        ] PlaylistBackendManager::resyncDelayedPlaylistNow(spotify:user:spotifydiscover:playlist:1apxlwPVhHJzpXIbaitlx2)
+00:26:46.133 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:steveericjordan:playlist:5t1clHRTm3zoIJri1rfbQW] Creating context
+00:26:46.133 5 [playlist_backend.cpp:301        ] PlaylistBackendManager::resyncDelayedPlaylistNow(spotify:user:steveericjordan:playlist:5t1clHRTm3zoIJri1rfbQW)
+00:26:46.134 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:spotify:playlist:6uTuhSs7qiEPfCI3QDHXsL] Creating context
+00:26:46.134 5 [playlist_backend.cpp:301        ] PlaylistBackendManager::resyncDelayedPlaylistNow(spotify:user:spotify:playlist:6uTuhSs7qiEPfCI3QDHXsL)
+00:26:46.135 3 [playlist_be_pl4_context.cpp:305 ] [spotify:user:steveericjordan:playlist:5t1clHRTm3zoIJri1rfbQW] Synchronization starting: DIFF (from revision 150,411c83214ad6358db4b63e8165cc28d559587200) 
+00:26:46.136 3 [playlist_be_pl4_context.cpp:305 ] [spotify:user:spotify:playlist:6uTuhSs7qiEPfCI3QDHXsL] Synchronization starting: DIFF (from revision 619,ed0de4e3dca7083783725c8f297bd4833973220c) 
+00:26:46.137 3 [playlist_be_pl4_context.cpp:305 ] [spotify:user:spotifydiscover:playlist:1apxlwPVhHJzpXIbaitlx2] Synchronization starting: DIFF (from revision 55,ed36f12d9835c9174989216fdbf669abd3dfee1a) 
+00:26:46.138 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:11146358524:playlist:5FjIOHjRcMDhTsOlXUk0hb] Creating context
+00:26:46.138 5 [playlist_backend.cpp:301        ] PlaylistBackendManager::resyncDelayedPlaylistNow(spotify:user:11146358524:playlist:5FjIOHjRcMDhTsOlXUk0hb)
+00:26:46.138 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:spotify_latino:playlist:7fnRRDNxAhZXuIbxlMM6BI] Creating context
+00:26:46.138 5 [playlist_backend.cpp:301        ] PlaylistBackendManager::resyncDelayedPlaylistNow(spotify:user:spotify_latino:playlist:7fnRRDNxAhZXuIbxlMM6BI)
+00:26:46.138 5 [playlist_backend.cpp:301        ] PlaylistBackendManager::resyncDelayedPlaylistNow(spotify:user:spotifydiscover:playlist:4CkJJTPqjYJJQhpRi8QRHJ)
+00:26:46.140 3 [playlist_be_pl4_context.cpp:305 ] [spotify:user:spotify_latino:playlist:7fnRRDNxAhZXuIbxlMM6BI] Synchronization starting: DIFF (from revision 46,8a1d3851f59f370905d1dbb1a56c3e4ca1889e08) 
+00:26:46.141 3 [playlist_be_pl4_context.cpp:305 ] [spotify:user:11146358524:playlist:5FjIOHjRcMDhTsOlXUk0hb] Synchronization starting: DIFF (from revision 39,2e2dcdb0590b307825e490f1855d16714bb26df1) 
+00:26:46.216 5 [playlist_be_pl4_context.cpp:196 ] [spotify:user:spotify:playlist:6uTuhSs7qiEPfCI3QDHXsL] 'DIFF' request complete
+00:26:46.216 3 [playlist_be_pl4_context.cpp:801 ] [spotify:user:spotify:playlist:6uTuhSs7qiEPfCI3QDHXsL] Delta-updated to revision 619,ed0de4e3dca7083783725c8f297bd4833973220c (no new changes)
+00:26:46.231 5 [playlist_be_pl4_context.cpp:196 ] [spotify:user:spotify_latino:playlist:7fnRRDNxAhZXuIbxlMM6BI] 'DIFF' request complete
+00:26:46.231 3 [playlist_be_pl4_context.cpp:801 ] [spotify:user:spotify_latino:playlist:7fnRRDNxAhZXuIbxlMM6BI] Delta-updated to revision 46,8a1d3851f59f370905d1dbb1a56c3e4ca1889e08 (no new changes)
+00:26:46.231 5 [playlist_be_pl4_context.cpp:196 ] [spotify:user:spotifydiscover:playlist:1apxlwPVhHJzpXIbaitlx2] 'DIFF' request complete
+00:26:46.231 3 [playlist_be_pl4_context.cpp:801 ] [spotify:user:spotifydiscover:playlist:1apxlwPVhHJzpXIbaitlx2] Delta-updated to revision 55,ed36f12d9835c9174989216fdbf669abd3dfee1a (no new changes)
+00:26:46.231 5 [playlist_be_pl4_context.cpp:196 ] [spotify:user:11146358524:playlist:5FjIOHjRcMDhTsOlXUk0hb] 'DIFF' request complete
+00:26:46.231 3 [playlist_be_pl4_context.cpp:801 ] [spotify:user:11146358524:playlist:5FjIOHjRcMDhTsOlXUk0hb] Delta-updated to revision 39,2e2dcdb0590b307825e490f1855d16714bb26df1 (no new changes)
+00:26:46.231 5 [playlist_be_pl4_context.cpp:196 ] [spotify:user:steveericjordan:playlist:5t1clHRTm3zoIJri1rfbQW] 'DIFF' request complete
+00:26:46.231 3 [playlist_be_pl4_context.cpp:801 ] [spotify:user:steveericjordan:playlist:5t1clHRTm3zoIJri1rfbQW] Delta-updated to revision 150,411c83214ad6358db4b63e8165cc28d559587200 (no new changes)
+00:26:46.323 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:spotify:playlist:3sB6WApTxgNdDR3UcPQDOK] Creating context
+00:26:46.323 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:spotify:playlist:2jvJnYj1DfCT1tX0Otp8z7] Creating context
+00:26:46.323 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:spotify:playlist:4LHUEhnFViR3mJUI8oKeT9] Creating context
+00:26:46.324 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:spotify:playlist:6Y5oLMTb9CdZ9eO1v6ns7F] Creating context
+00:26:46.324 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:spotify:playlist:6FPpof7RViMpuOchWRuz9y] Creating context
+00:26:46.324 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:spotify:playlist:18BqSC2cMSLIQrFwvYT5gv] Creating context
+00:26:46.324 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:spotify:playlist:2yQuxmP152cS0MFKgnDP2U] Creating context
+00:26:46.325 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:spotify:playlist:5UMleIsaNDK5LzZRbrbcXr] Creating context
+00:26:46.325 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:spotify:playlist:5FJXhjdILmRA2z5bvz4nzf] Creating context
+00:26:46.326 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:spotify:playlist:0mTqANDkS6KLEGGKBKXPPe] Creating context
+00:26:46.378 5 [playlist_backend.cpp:301        ] PlaylistBackendManager::resyncDelayedPlaylistNow(spotify:user:spotify:playlist:66oi6TpdQHk3kS7ZHOx8gX)
+00:26:46.378 5 [playlist_backend.cpp:301        ] PlaylistBackendManager::resyncDelayedPlaylistNow(spotify:user:spotify:playlist:3sB6WApTxgNdDR3UcPQDOK)
+00:26:46.378 5 [playlist_backend.cpp:301        ] PlaylistBackendManager::resyncDelayedPlaylistNow(spotify:user:spotify:playlist:2jvJnYj1DfCT1tX0Otp8z7)
+00:26:46.379 5 [playlist_backend.cpp:301        ] PlaylistBackendManager::resyncDelayedPlaylistNow(spotify:user:spotify:playlist:4LHUEhnFViR3mJUI8oKeT9)
+00:26:46.381 3 [playlist_be_pl4_context.cpp:305 ] [spotify:user:spotify:playlist:4LHUEhnFViR3mJUI8oKeT9] Synchronization starting: DIFF (from revision 9,3ca5bb0d5c55738782fad6242e0f9ec336f7b29b) 
+00:26:46.385 3 [playlist_be_pl4_context.cpp:305 ] [spotify:user:spotify:playlist:2jvJnYj1DfCT1tX0Otp8z7] Synchronization starting: DIFF (from revision 755,81b3c248a23b4767c709a2bcbed385aa12e4adea) 
+00:26:46.388 3 [playlist_be_pl4_context.cpp:305 ] [spotify:user:spotify:playlist:3sB6WApTxgNdDR3UcPQDOK] Synchronization starting: DIFF (from revision 35,8cb9937b9c0041eee14bd6e951096ceee0bca0a2) 
+00:26:46.389 5 [playlist_backend.cpp:301        ] PlaylistBackendManager::resyncDelayedPlaylistNow(spotify:user:spotify:playlist:6Y5oLMTb9CdZ9eO1v6ns7F)
+00:26:46.390 5 [playlist_backend.cpp:301        ] PlaylistBackendManager::resyncDelayedPlaylistNow(spotify:user:spotify:playlist:6FPpof7RViMpuOchWRuz9y)
+00:26:46.390 5 [playlist_backend.cpp:301        ] PlaylistBackendManager::resyncDelayedPlaylistNow(spotify:user:spotify:playlist:18BqSC2cMSLIQrFwvYT5gv)
+00:26:46.390 5 [playlist_backend.cpp:301        ] PlaylistBackendManager::resyncDelayedPlaylistNow(spotify:user:spotify:playlist:2yQuxmP152cS0MFKgnDP2U)
+00:26:46.392 3 [playlist_be_pl4_context.cpp:305 ] [spotify:user:spotify:playlist:18BqSC2cMSLIQrFwvYT5gv] Synchronization starting: DIFF (from revision 579,e08af3242ef3355f7552a33a65dd6b54d88e5b60) 
+00:26:46.395 3 [playlist_be_pl4_context.cpp:305 ] [spotify:user:spotify:playlist:6Y5oLMTb9CdZ9eO1v6ns7F] Synchronization starting: DIFF (from revision 528,277c630c552656b584c7ebd4f9bd1b419dd4e48b) 
+00:26:46.399 5 [playlist_backend.cpp:301        ] PlaylistBackendManager::resyncDelayedPlaylistNow(spotify:user:spotify:playlist:5UMleIsaNDK5LzZRbrbcXr)
+00:26:46.399 5 [playlist_backend.cpp:301        ] PlaylistBackendManager::resyncDelayedPlaylistNow(spotify:user:spotify:playlist:0eDq2STmk8tKcD7qWCwrze)
+00:26:46.400 5 [playlist_backend.cpp:301        ] PlaylistBackendManager::resyncDelayedPlaylistNow(spotify:user:spotify:playlist:5FJXhjdILmRA2z5bvz4nzf)
+00:26:46.400 5 [playlist_backend.cpp:301        ] PlaylistBackendManager::resyncDelayedPlaylistNow(spotify:user:spotify:playlist:0mTqANDkS6KLEGGKBKXPPe)
+00:26:46.483 5 [playlist_be_pl4_context.cpp:196 ] [spotify:user:spotify:playlist:2jvJnYj1DfCT1tX0Otp8z7] 'DIFF' request complete
+00:26:46.483 3 [playlist_be_pl4_context.cpp:801 ] [spotify:user:spotify:playlist:2jvJnYj1DfCT1tX0Otp8z7] Delta-updated to revision 755,81b3c248a23b4767c709a2bcbed385aa12e4adea (no new changes)
+00:26:46.484 5 [playlist_be_pl4_context.cpp:196 ] [spotify:user:spotify:playlist:18BqSC2cMSLIQrFwvYT5gv] 'DIFF' request complete
+00:26:46.484 3 [playlist_be_pl4_context.cpp:801 ] [spotify:user:spotify:playlist:18BqSC2cMSLIQrFwvYT5gv] Delta-updated to revision 579,e08af3242ef3355f7552a33a65dd6b54d88e5b60 (no new changes)
+00:26:46.484 5 [playlist_be_pl4_context.cpp:196 ] [spotify:user:spotify:playlist:4LHUEhnFViR3mJUI8oKeT9] 'DIFF' request complete
+00:26:46.484 3 [playlist_be_pl4_context.cpp:801 ] [spotify:user:spotify:playlist:4LHUEhnFViR3mJUI8oKeT9] Delta-updated to revision 9,3ca5bb0d5c55738782fad6242e0f9ec336f7b29b (no new changes)
+00:26:46.484 5 [playlist_be_pl4_context.cpp:196 ] [spotify:user:spotify:playlist:3sB6WApTxgNdDR3UcPQDOK] 'DIFF' request complete
+00:26:46.484 3 [playlist_be_pl4_context.cpp:801 ] [spotify:user:spotify:playlist:3sB6WApTxgNdDR3UcPQDOK] Delta-updated to revision 35,8cb9937b9c0041eee14bd6e951096ceee0bca0a2 (no new changes)
+00:26:46.484 5 [playlist_be_pl4_context.cpp:196 ] [spotify:user:spotify:playlist:6Y5oLMTb9CdZ9eO1v6ns7F] 'DIFF' request complete
+00:26:46.484 3 [playlist_be_pl4_context.cpp:801 ] [spotify:user:spotify:playlist:6Y5oLMTb9CdZ9eO1v6ns7F] Delta-updated to revision 528,277c630c552656b584c7ebd4f9bd1b419dd4e48b (no new changes)
+00:26:46.506 3 [playlist_be_pl4_context.cpp:305 ] [spotify:user:spotify:playlist:0mTqANDkS6KLEGGKBKXPPe] Synchronization starting: DIFF (from revision 507,fdc7578d166cd47563966c6b383d768ba79ba5a5) 
+00:26:46.507 3 [playlist_be_pl4_context.cpp:305 ] [spotify:user:spotify:playlist:5FJXhjdILmRA2z5bvz4nzf] Synchronization starting: DIFF (from revision 4986,638051901b783574b98c8385598cf5f35552c665) 
+00:26:46.507 3 [playlist_be_pl4_context.cpp:305 ] [spotify:user:spotify:playlist:5UMleIsaNDK5LzZRbrbcXr] Synchronization starting: DIFF (from revision 41,3ad82f9e2827cc6e30ec7260b8f80890ce105b7f) 
+00:26:46.507 3 [playlist_be_pl4_context.cpp:305 ] [spotify:user:spotify:playlist:6FPpof7RViMpuOchWRuz9y] Synchronization starting: DIFF (from revision 27,170a3b9b1005a5649cd0423571ebe3c6b836a36b) 
+00:26:46.507 3 [playlist_be_pl4_context.cpp:305 ] [spotify:user:spotify:playlist:2yQuxmP152cS0MFKgnDP2U] Synchronization starting: DIFF (from revision 529,3d5562cf44487b21af76bf247d666a40fe145baa) 
+00:26:46.609 5 [playlist_be_pl4_context.cpp:196 ] [spotify:user:spotify:playlist:2yQuxmP152cS0MFKgnDP2U] 'DIFF' request complete
+00:26:46.609 3 [playlist_be_pl4_context.cpp:801 ] [spotify:user:spotify:playlist:2yQuxmP152cS0MFKgnDP2U] Delta-updated to revision 529,3d5562cf44487b21af76bf247d666a40fe145baa (no new changes)
+00:26:46.610 5 [playlist_be_pl4_context.cpp:196 ] [spotify:user:spotify:playlist:5FJXhjdILmRA2z5bvz4nzf] 'DIFF' request complete
+00:26:46.610 3 [playlist_be_pl4_context.cpp:801 ] [spotify:user:spotify:playlist:5FJXhjdILmRA2z5bvz4nzf] Delta-updated to revision 4986,638051901b783574b98c8385598cf5f35552c665 (no new changes)
+00:26:46.611 5 [playlist_be_pl4_context.cpp:196 ] [spotify:user:spotify:playlist:5UMleIsaNDK5LzZRbrbcXr] 'DIFF' request complete
+00:26:46.611 3 [playlist_be_pl4_context.cpp:801 ] [spotify:user:spotify:playlist:5UMleIsaNDK5LzZRbrbcXr] Delta-updated to revision 41,3ad82f9e2827cc6e30ec7260b8f80890ce105b7f (no new changes)
+00:26:46.611 5 [playlist_be_pl4_context.cpp:196 ] [spotify:user:spotify:playlist:0mTqANDkS6KLEGGKBKXPPe] 'DIFF' request complete
+00:26:46.611 3 [playlist_be_pl4_context.cpp:801 ] [spotify:user:spotify:playlist:0mTqANDkS6KLEGGKBKXPPe] Delta-updated to revision 507,fdc7578d166cd47563966c6b383d768ba79ba5a5 (no new changes)
+00:26:46.611 5 [playlist_be_pl4_context.cpp:196 ] [spotify:user:spotify:playlist:6FPpof7RViMpuOchWRuz9y] 'DIFF' request complete
+00:26:46.611 3 [playlist_be_pl4_context.cpp:801 ] [spotify:user:spotify:playlist:6FPpof7RViMpuOchWRuz9y] Delta-updated to revision 27,170a3b9b1005a5649cd0423571ebe3c6b836a36b (no new changes)
+00:26:46.809 5 [playlist_be_pl4_context.cpp:70  ] [spotify:user:digsterhu:playlist:31INIQTfctOwn99XkW3nOG] Creating context
+00:26:46.812 5 [playlist_backend.cpp:301        ] PlaylistBackendManager::resyncDelayedPlaylistNow(spotify:user:digsterhu:playlist:31INIQTfctOwn99XkW3nOG)
+00:26:46.813 3 [playlist_be_pl4_context.cpp:305 ] [spotify:user:digsterhu:playlist:31INIQTfctOwn99XkW3nOG] Synchronization starting: DIFF (from revision 1166,8d712e3e91c54df3f3dffe74c5ff9c005c0924dd) 
+00:26:46.970 5 [playlist_be_pl4_context.cpp:196 ] [spotify:user:digsterhu:playlist:31INIQTfctOwn99XkW3nOG] 'DIFF' request complete
+00:26:46.970 3 [playlist_be_pl4_context.cpp:801 ] [spotify:user:digsterhu:playlist:31INIQTfctOwn99XkW3nOG] Delta-updated to revision 1166,8d712e3e91c54df3f3dffe74c5ff9c005c0924dd (no new changes)
+00:26:48.531 D [gaia_manager.cpp:1186           ] GAIA: GaiaManager::hermesDeviceCheck
+00:26:58.107 D [gaia_manager.cpp:1785           ] GAIA: GaiaManager::becomeActiveDevice, isActiveDevice=false
+00:26:58.108 D [gaia_manager.cpp:941            ] GAIA:   current state ID updated to 761770061
+00:26:58.117 I [audio_player_queue_impl.cpp:826 ] Flush driver: 0x000034c398025d20
+00:26:58.119 I [head_file_streamer.cpp:93       ] Requesting head file from CDN url: http://heads-ak.spotify.com.edgesuite.net/head/5871e31bf8e7f63261193c3d34f528f4ca3f930a 
+00:26:58.119 I [audio_player_queue_entry.cpp:288] Buffering changed for entry: 0x000034c396f01800, 1
+00:26:58.119 I [audio_player_queue_impl.cpp:312 ] fade in at -1 for -1 milliseconds, fade out at -1 for -1 milliseconds
+00:26:58.119 I [ap_chunk_downloader.cpp:68      ] Requesting data (0 -> 524288) from AP for file 5871e31bf8e7f63261193c3d34f528f4ca3f930a
+00:26:58.119 I [audio_player_queue_impl.cpp:808 ] Pause driver: 0x000034c398025d20, 0
+00:26:58.122 D [gaia_manager.cpp:941            ] GAIA:   current state ID updated to 761770075
+00:26:58.123 I [sliding_window_prefetch_strategy.cpp:212] Prefetch: looks like new context - resetting window size to 1
+00:26:58.124 D [gaia_manager.cpp:941            ] GAIA:   current state ID updated to 761770078
+00:26:58.170 I [cdn_chunk_downloader.cpp:80     ] Requesting data (0 -> 524288) from CDN url: http://audio-ec.spotify.com/audio/5871e31bf8e7f63261193c3d34f528f4ca3f930a?rTt_aO6FbDpjzReuGBTwQyZRh41BhtcuC7_bJqSkjIwY-IQ_GoBGmFajStu48kyHnpuItZRji_6Quav72PtrNcGfB_DjB9JnlwGM0p7jjKkQSmBzgHdQrf_HJt17P6Koyb9X7243vDxT9-IIwg 
+00:26:58.259 I [dns.cpp:63                      ] resolved heads-ak.spotify.com.edgesuite.net to 23.6.112.194
+00:26:58.259 I [dns.cpp:63                      ] resolved heads-ak.spotify.com.edgesuite.net to 23.6.112.192
+00:26:58.259 I [dns.cpp:63                      ] resolved audio-ec.spotify.com to 68.232.34.151
+00:26:58.268 D [gaia_manager.cpp:941            ] GAIA:   current state ID updated to 761770221
+00:26:58.315 D [gaia_manager.cpp:941            ] GAIA:   current state ID updated to 761770268
+00:26:58.359 I [audio_player_queue_entry.cpp:288] Buffering changed for entry: 0x000034c396f01800, 0
+00:26:58.359 I [audio_player_queue_impl.cpp:765 ] Start playback on driver: 0x000034c398025d20
+00:26:58.359 I [audio_streamer.cpp:774          ] Encrypted data 64k-latency: 213 ms. Play latency: 1 ms
+00:26:58.363 D [gaia_manager.cpp:941            ] GAIA:   current state ID updated to 761770317
+00:26:58.398 I [cdn_chunk_downloader.cpp:217    ] Request for file 5871e31bf8e7f63261193c3d34f528f4ca3f930a complete (code: success (0))
+00:26:58.398 I [cdn_chunk_downloader.cpp:80     ] Requesting data (524288 -> 1048576) from CDN url: http://audio-ec.spotify.com/audio/5871e31bf8e7f63261193c3d34f528f4ca3f930a?rTt_aO6FbDpjzReuGBTwQyZRh41BhtcuC7_bJqSkjIwY-IQ_GoBGmFajStu48kyHnpuItZRji_6Quav72PtrNcGfB_DjB9JnlwGM0p7jjKkQSmBzgHdQrf_HJt17P6Koyb9X7243vDxT9-IIwg 
+00:26:58.544 I [cdn_chunk_downloader.cpp:217    ] Request for file 5871e31bf8e7f63261193c3d34f528f4ca3f930a complete (code: success (0))
+00:26:58.544 I [cdn_chunk_downloader.cpp:80     ] Requesting data (1048576 -> 1572864) from CDN url: http://audio-ec.spotify.com/audio/5871e31bf8e7f63261193c3d34f528f4ca3f930a?rTt_aO6FbDpjzReuGBTwQyZRh41BhtcuC7_bJqSkjIwY-IQ_GoBGmFajStu48kyHnpuItZRji_6Quav72PtrNcGfB_DjB9JnlwGM0p7jjKkQSmBzgHdQrf_HJt17P6Koyb9X7243vDxT9-IIwg 
+00:26:58.701 I [cdn_chunk_downloader.cpp:217    ] Request for file 5871e31bf8e7f63261193c3d34f528f4ca3f930a complete (code: success (0))
+00:26:58.702 I [cdn_chunk_downloader.cpp:80     ] Requesting data (1572864 -> 2097152) from CDN url: http://audio-ec.spotify.com/audio/5871e31bf8e7f63261193c3d34f528f4ca3f930a?rTt_aO6FbDpjzReuGBTwQyZRh41BhtcuC7_bJqSkjIwY-IQ_GoBGmFajStu48kyHnpuItZRji_6Quav72PtrNcGfB_DjB9JnlwGM0p7jjKkQSmBzgHdQrf_HJt17P6Koyb9X7243vDxT9-IIwg 
+00:26:58.897 I [cdn_chunk_downloader.cpp:217    ] Request for file 5871e31bf8e7f63261193c3d34f528f4ca3f930a complete (code: success (0))
+00:26:58.897 I [cdn_chunk_downloader.cpp:80     ] Requesting data (2097152 -> 2621440) from CDN url: http://audio-ec.spotify.com/audio/5871e31bf8e7f63261193c3d34f528f4ca3f930a?rTt_aO6FbDpjzReuGBTwQyZRh41BhtcuC7_bJqSkjIwY-IQ_GoBGmFajStu48kyHnpuItZRji_6Quav72PtrNcGfB_DjB9JnlwGM0p7jjKkQSmBzgHdQrf_HJt17P6Koyb9X7243vDxT9-IIwg 
+00:26:59.087 I [cdn_chunk_downloader.cpp:217    ] Request for file 5871e31bf8e7f63261193c3d34f528f4ca3f930a complete (code: success (0))
+00:26:59.087 I [cdn_chunk_downloader.cpp:80     ] Requesting data (2621440 -> 3145728) from CDN url: http://audio-ec.spotify.com/audio/5871e31bf8e7f63261193c3d34f528f4ca3f930a?rTt_aO6FbDpjzReuGBTwQyZRh41BhtcuC7_bJqSkjIwY-IQ_GoBGmFajStu48kyHnpuItZRji_6Quav72PtrNcGfB_DjB9JnlwGM0p7jjKkQSmBzgHdQrf_HJt17P6Koyb9X7243vDxT9-IIwg 
+00:26:59.252 I [cdn_chunk_downloader.cpp:217    ] Request for file 5871e31bf8e7f63261193c3d34f528f4ca3f930a complete (code: success (0))
+00:26:59.252 I [cdn_chunk_downloader.cpp:80     ] Requesting data (3145728 -> 3670016) from CDN url: http://audio-ec.spotify.com/audio/5871e31bf8e7f63261193c3d34f528f4ca3f930a?rTt_aO6FbDpjzReuGBTwQyZRh41BhtcuC7_bJqSkjIwY-IQ_GoBGmFajStu48kyHnpuItZRji_6Quav72PtrNcGfB_DjB9JnlwGM0p7jjKkQSmBzgHdQrf_HJt17P6Koyb9X7243vDxT9-IIwg 
+00:26:59.401 I [cdn_chunk_downloader.cpp:217    ] Request for file 5871e31bf8e7f63261193c3d34f528f4ca3f930a complete (code: success (0))
+00:26:59.401 I [cdn_chunk_downloader.cpp:80     ] Requesting data (3670016 -> 4194304) from CDN url: http://audio-ec.spotify.com/audio/5871e31bf8e7f63261193c3d34f528f4ca3f930a?rTt_aO6FbDpjzReuGBTwQyZRh41BhtcuC7_bJqSkjIwY-IQ_GoBGmFajStu48kyHnpuItZRji_6Quav72PtrNcGfB_DjB9JnlwGM0p7jjKkQSmBzgHdQrf_HJt17P6Koyb9X7243vDxT9-IIwg 
+00:26:59.546 I [cdn_chunk_downloader.cpp:217    ] Request for file 5871e31bf8e7f63261193c3d34f528f4ca3f930a complete (code: success (0))
+00:26:59.546 I [cdn_chunk_downloader.cpp:80     ] Requesting data (4194304 -> 4718592) from CDN url: http://audio-ec.spotify.com/audio/5871e31bf8e7f63261193c3d34f528f4ca3f930a?rTt_aO6FbDpjzReuGBTwQyZRh41BhtcuC7_bJqSkjIwY-IQ_GoBGmFajStu48kyHnpuItZRji_6Quav72PtrNcGfB_DjB9JnlwGM0p7jjKkQSmBzgHdQrf_HJt17P6Koyb9X7243vDxT9-IIwg 
+00:26:59.694 I [cdn_chunk_downloader.cpp:217    ] Request for file 5871e31bf8e7f63261193c3d34f528f4ca3f930a complete (code: success (0))
+00:26:59.694 I [cdn_chunk_downloader.cpp:80     ] Requesting data (4718592 -> 5242880) from CDN url: http://audio-ec.spotify.com/audio/5871e31bf8e7f63261193c3d34f528f4ca3f930a?rTt_aO6FbDpjzReuGBTwQyZRh41BhtcuC7_bJqSkjIwY-IQ_GoBGmFajStu48kyHnpuItZRji_6Quav72PtrNcGfB_DjB9JnlwGM0p7jjKkQSmBzgHdQrf_HJt17P6Koyb9X7243vDxT9-IIwg 
+00:26:59.841 I [cdn_chunk_downloader.cpp:217    ] Request for file 5871e31bf8e7f63261193c3d34f528f4ca3f930a complete (code: success (0))
+00:26:59.841 I [cdn_chunk_downloader.cpp:80     ] Requesting data (5242880 -> 5376072) from CDN url: http://audio-ec.spotify.com/audio/5871e31bf8e7f63261193c3d34f528f4ca3f930a?rTt_aO6FbDpjzReuGBTwQyZRh41BhtcuC7_bJqSkjIwY-IQ_GoBGmFajStu48kyHnpuItZRji_6Quav72PtrNcGfB_DjB9JnlwGM0p7jjKkQSmBzgHdQrf_HJt17P6Koyb9X7243vDxT9-IIwg 
+00:26:59.879 I [cdn_chunk_downloader.cpp:217    ] Request for file 5871e31bf8e7f63261193c3d34f528f4ca3f930a complete (code: success (0))
+00:27:02.770 I [audio_player_queue_impl.cpp:826 ] Flush driver: 0x000034c398025d20
+00:27:02.771 I [head_file_streamer.cpp:93       ] Requesting head file from CDN url: http://heads-ak.spotify.com.edgesuite.net/head/11a8c7d2e243516e71cf92abe3037f3df0ad299a 
+00:27:02.771 I [audio_player_queue_entry.cpp:288] Buffering changed for entry: 0x000034c396f01800, 1
+00:27:02.771 I [audio_player_queue_impl.cpp:312 ] fade in at -1 for -1 milliseconds, fade out at -1 for -1 milliseconds
+00:27:02.771 I [ap_chunk_downloader.cpp:68      ] Requesting data (0 -> 524288) from AP for file 11a8c7d2e243516e71cf92abe3037f3df0ad299a
+00:27:02.773 D [gaia_manager.cpp:941            ] GAIA:   current state ID updated to 761774726
+00:27:02.774 I [sliding_window_prefetch_strategy.cpp:216] Prefetch: looks like a skip or partial context change - halving window size to 1
+00:27:02.774 D [gaia_manager.cpp:941            ] GAIA:   current state ID updated to 761774728
+00:27:02.818 I [audio_player_queue_entry.cpp:288] Buffering changed for entry: 0x000034c396f01800, 0
+00:27:02.818 I [audio_player_queue_impl.cpp:765 ] Start playback on driver: 0x000034c398025d20
+00:27:02.824 I [audio_streamer.cpp:774          ] Encrypted data 64k-latency: 48 ms. Play latency: 49 ms
+00:27:02.825 D [gaia_manager.cpp:941            ] GAIA:   current state ID updated to 761774778
+00:27:02.849 D [gaia_manager.cpp:941            ] GAIA:   current state ID updated to 761774802
+00:27:02.871 I [cdn_chunk_downloader.cpp:80     ] Requesting data (131072 -> 655360) from CDN url: http://audio-ec.spotify.com/audio/11a8c7d2e243516e71cf92abe3037f3df0ad299a?3ffDldYQLL33IKZc17Y5FnoZRP02z-P1T5fv4QveSvoLUdyu_PtninqujvWt5LF9_9JIANlJ3xOynnGWEpja_z0j0fj1kjQ9DFkgmDenscov0WIa5LXchyDfjYmYzo27VeHoQw5ozjYcfO_Q8w 
+00:27:03.124 I [cdn_chunk_downloader.cpp:217    ] Request for file 11a8c7d2e243516e71cf92abe3037f3df0ad299a complete (code: success (0))
+00:27:03.124 I [cdn_chunk_downloader.cpp:80     ] Requesting data (655360 -> 1179648) from CDN url: http://audio-ec.spotify.com/audio/11a8c7d2e243516e71cf92abe3037f3df0ad299a?3ffDldYQLL33IKZc17Y5FnoZRP02z-P1T5fv4QveSvoLUdyu_PtninqujvWt5LF9_9JIANlJ3xOynnGWEpja_z0j0fj1kjQ9DFkgmDenscov0WIa5LXchyDfjYmYzo27VeHoQw5ozjYcfO_Q8w 
+00:27:03.198 I [cdn_chunk_downloader.cpp:217    ] Request for file 11a8c7d2e243516e71cf92abe3037f3df0ad299a complete (code: success (0))
+00:27:03.198 I [cdn_chunk_downloader.cpp:80     ] Requesting data (1179648 -> 1703936) from CDN url: http://audio-ec.spotify.com/audio/11a8c7d2e243516e71cf92abe3037f3df0ad299a?3ffDldYQLL33IKZc17Y5FnoZRP02z-P1T5fv4QveSvoLUdyu_PtninqujvWt5LF9_9JIANlJ3xOynnGWEpja_z0j0fj1kjQ9DFkgmDenscov0WIa5LXchyDfjYmYzo27VeHoQw5ozjYcfO_Q8w 
+00:27:03.379 I [cdn_chunk_downloader.cpp:217    ] Request for file 11a8c7d2e243516e71cf92abe3037f3df0ad299a complete (code: success (0))
+00:27:03.379 I [cdn_chunk_downloader.cpp:80     ] Requesting data (1703936 -> 2228224) from CDN url: http://audio-ec.spotify.com/audio/11a8c7d2e243516e71cf92abe3037f3df0ad299a?3ffDldYQLL33IKZc17Y5FnoZRP02z-P1T5fv4QveSvoLUdyu_PtninqujvWt5LF9_9JIANlJ3xOynnGWEpja_z0j0fj1kjQ9DFkgmDenscov0WIa5LXchyDfjYmYzo27VeHoQw5ozjYcfO_Q8w 
+00:27:03.489 I [cdn_chunk_downloader.cpp:217    ] Request for file 11a8c7d2e243516e71cf92abe3037f3df0ad299a complete (code: success (0))
+00:27:03.489 I [cdn_chunk_downloader.cpp:80     ] Requesting data (2228224 -> 2752512) from CDN url: http://audio-ec.spotify.com/audio/11a8c7d2e243516e71cf92abe3037f3df0ad299a?3ffDldYQLL33IKZc17Y5FnoZRP02z-P1T5fv4QveSvoLUdyu_PtninqujvWt5LF9_9JIANlJ3xOynnGWEpja_z0j0fj1kjQ9DFkgmDenscov0WIa5LXchyDfjYmYzo27VeHoQw5ozjYcfO_Q8w 
+00:27:03.638 I [cdn_chunk_downloader.cpp:217    ] Request for file 11a8c7d2e243516e71cf92abe3037f3df0ad299a complete (code: success (0))
+00:27:03.638 I [cdn_chunk_downloader.cpp:80     ] Requesting data (2752512 -> 3276800) from CDN url: http://audio-ec.spotify.com/audio/11a8c7d2e243516e71cf92abe3037f3df0ad299a?3ffDldYQLL33IKZc17Y5FnoZRP02z-P1T5fv4QveSvoLUdyu_PtninqujvWt5LF9_9JIANlJ3xOynnGWEpja_z0j0fj1kjQ9DFkgmDenscov0WIa5LXchyDfjYmYzo27VeHoQw5ozjYcfO_Q8w 
+00:27:03.684 I [audio_player_queue_impl.cpp:808 ] Pause driver: 0x000034c398025d20, 1
+00:27:03.684 I [audio_player_queue_impl.cpp:808 ] Pause driver: 0x000034c398025d20, 1
+00:27:03.686 D [gaia_manager.cpp:941            ] GAIA:   current state ID updated to 761775640
+00:27:03.782 I [cdn_chunk_downloader.cpp:217    ] Request for file 11a8c7d2e243516e71cf92abe3037f3df0ad299a complete (code: success (0))
+00:27:03.782 I [cdn_chunk_downloader.cpp:80     ] Requesting data (3276800 -> 3801088) from CDN url: http://audio-ec.spotify.com/audio/11a8c7d2e243516e71cf92abe3037f3df0ad299a?3ffDldYQLL33IKZc17Y5FnoZRP02z-P1T5fv4QveSvoLUdyu_PtninqujvWt5LF9_9JIANlJ3xOynnGWEpja_z0j0fj1kjQ9DFkgmDenscov0WIa5LXchyDfjYmYzo27VeHoQw5ozjYcfO_Q8w 
+00:27:03.934 I [cdn_chunk_downloader.cpp:217    ] Request for file 11a8c7d2e243516e71cf92abe3037f3df0ad299a complete (code: success (0))
+00:27:03.934 I [cdn_chunk_downloader.cpp:80     ] Requesting data (3801088 -> 4325376) from CDN url: http://audio-ec.spotify.com/audio/11a8c7d2e243516e71cf92abe3037f3df0ad299a?3ffDldYQLL33IKZc17Y5FnoZRP02z-P1T5fv4QveSvoLUdyu_PtninqujvWt5LF9_9JIANlJ3xOynnGWEpja_z0j0fj1kjQ9DFkgmDenscov0WIa5LXchyDfjYmYzo27VeHoQw5ozjYcfO_Q8w 
+00:27:04.083 I [cdn_chunk_downloader.cpp:217    ] Request for file 11a8c7d2e243516e71cf92abe3037f3df0ad299a complete (code: success (0))
+00:27:04.083 I [cdn_chunk_downloader.cpp:80     ] Requesting data (4325376 -> 4553196) from CDN url: http://audio-ec.spotify.com/audio/11a8c7d2e243516e71cf92abe3037f3df0ad299a?3ffDldYQLL33IKZc17Y5FnoZRP02z-P1T5fv4QveSvoLUdyu_PtninqujvWt5LF9_9JIANlJ3xOynnGWEpja_z0j0fj1kjQ9DFkgmDenscov0WIa5LXchyDfjYmYzo27VeHoQw5ozjYcfO_Q8w 
+00:27:04.145 I [cdn_chunk_downloader.cpp:217    ] Request for file 11a8c7d2e243516e71cf92abe3037f3df0ad299a complete (code: success (0))
+00:27:10.539 5 [playlist_be_pl4.cpp:547         ] synchronizePlaylistContainer 'spotify:user:1279076593:rootlist'
+00:27:13.125 I [sliding_window_prefetch_strategy.cpp:163] Prefetch: start prefetching track  Careless : 4015e80e06f9c4468a84cb39d6f58b4ad8585b7e
+00:27:13.125 I [ap_chunk_downloader.cpp:68      ] Requesting data (0 -> 524288) from AP for file 4015e80e06f9c4468a84cb39d6f58b4ad8585b7e
+00:27:13.167 I [cdn_chunk_downloader.cpp:80     ] Requesting data (0 -> 524288) from CDN url: http://audio-ec.spotify.com/audio/4015e80e06f9c4468a84cb39d6f58b4ad8585b7e?AgEbZSLuMbm8vHp7Jp25w2kXWBzeIMiUdKqtIW4r4kXhCAoOm4b4bI8VksK-zoZBOK9sD7_wLSjZEW9u59IuyApU1kpQ2LtWa_A2mHZgNnnq8J3pJwMdVzKuCcI9yr_iIBaGQIHesg3OXKvfEA 
+00:27:13.236 I [cdn_chunk_downloader.cpp:217    ] Request for file 4015e80e06f9c4468a84cb39d6f58b4ad8585b7e complete (code: success (0))
+00:27:13.237 I [cdn_chunk_downloader.cpp:80     ] Requesting data (524288 -> 1048576) from CDN url: http://audio-ec.spotify.com/audio/4015e80e06f9c4468a84cb39d6f58b4ad8585b7e?AgEbZSLuMbm8vHp7Jp25w2kXWBzeIMiUdKqtIW4r4kXhCAoOm4b4bI8VksK-zoZBOK9sD7_wLSjZEW9u59IuyApU1kpQ2LtWa_A2mHZgNnnq8J3pJwMdVzKuCcI9yr_iIBaGQIHesg3OXKvfEA 
+00:27:13.660 I [cdn_chunk_downloader.cpp:217    ] Request for file 4015e80e06f9c4468a84cb39d6f58b4ad8585b7e complete (code: success (0))
+00:27:13.660 I [cdn_chunk_downloader.cpp:80     ] Requesting data (1048576 -> 1572864) from CDN url: http://audio-ec.spotify.com/audio/4015e80e06f9c4468a84cb39d6f58b4ad8585b7e?AgEbZSLuMbm8vHp7Jp25w2kXWBzeIMiUdKqtIW4r4kXhCAoOm4b4bI8VksK-zoZBOK9sD7_wLSjZEW9u59IuyApU1kpQ2LtWa_A2mHZgNnnq8J3pJwMdVzKuCcI9yr_iIBaGQIHesg3OXKvfEA 
+00:27:13.729 I [cdn_chunk_downloader.cpp:217    ] Request for file 4015e80e06f9c4468a84cb39d6f58b4ad8585b7e complete (code: success (0))
+00:27:13.729 I [cdn_chunk_downloader.cpp:80     ] Requesting data (1572864 -> 2097152) from CDN url: http://audio-ec.spotify.com/audio/4015e80e06f9c4468a84cb39d6f58b4ad8585b7e?AgEbZSLuMbm8vHp7Jp25w2kXWBzeIMiUdKqtIW4r4kXhCAoOm4b4bI8VksK-zoZBOK9sD7_wLSjZEW9u59IuyApU1kpQ2LtWa_A2mHZgNnnq8J3pJwMdVzKuCcI9yr_iIBaGQIHesg3OXKvfEA 
+00:27:13.875 I [cdn_chunk_downloader.cpp:217    ] Request for file 4015e80e06f9c4468a84cb39d6f58b4ad8585b7e complete (code: success (0))
+00:27:13.875 I [cdn_chunk_downloader.cpp:80     ] Requesting data (2097152 -> 2621440) from CDN url: http://audio-ec.spotify.com/audio/4015e80e06f9c4468a84cb39d6f58b4ad8585b7e?AgEbZSLuMbm8vHp7Jp25w2kXWBzeIMiUdKqtIW4r4kXhCAoOm4b4bI8VksK-zoZBOK9sD7_wLSjZEW9u59IuyApU1kpQ2LtWa_A2mHZgNnnq8J3pJwMdVzKuCcI9yr_iIBaGQIHesg3OXKvfEA 
+00:27:14.024 I [cdn_chunk_downloader.cpp:217    ] Request for file 4015e80e06f9c4468a84cb39d6f58b4ad8585b7e complete (code: success (0))
+00:27:14.024 I [cdn_chunk_downloader.cpp:80     ] Requesting data (2621440 -> 3145728) from CDN url: http://audio-ec.spotify.com/audio/4015e80e06f9c4468a84cb39d6f58b4ad8585b7e?AgEbZSLuMbm8vHp7Jp25w2kXWBzeIMiUdKqtIW4r4kXhCAoOm4b4bI8VksK-zoZBOK9sD7_wLSjZEW9u59IuyApU1kpQ2LtWa_A2mHZgNnnq8J3pJwMdVzKuCcI9yr_iIBaGQIHesg3OXKvfEA 
+00:27:14.170 I [cdn_chunk_downloader.cpp:217    ] Request for file 4015e80e06f9c4468a84cb39d6f58b4ad8585b7e complete (code: success (0))
+00:27:14.170 I [cdn_chunk_downloader.cpp:80     ] Requesting data (3145728 -> 3670016) from CDN url: http://audio-ec.spotify.com/audio/4015e80e06f9c4468a84cb39d6f58b4ad8585b7e?AgEbZSLuMbm8vHp7Jp25w2kXWBzeIMiUdKqtIW4r4kXhCAoOm4b4bI8VksK-zoZBOK9sD7_wLSjZEW9u59IuyApU1kpQ2LtWa_A2mHZgNnnq8J3pJwMdVzKuCcI9yr_iIBaGQIHesg3OXKvfEA 
+00:27:14.318 I [cdn_chunk_downloader.cpp:217    ] Request for file 4015e80e06f9c4468a84cb39d6f58b4ad8585b7e complete (code: success (0))
+00:27:14.318 I [cdn_chunk_downloader.cpp:80     ] Requesting data (3670016 -> 4194304) from CDN url: http://audio-ec.spotify.com/audio/4015e80e06f9c4468a84cb39d6f58b4ad8585b7e?AgEbZSLuMbm8vHp7Jp25w2kXWBzeIMiUdKqtIW4r4kXhCAoOm4b4bI8VksK-zoZBOK9sD7_wLSjZEW9u59IuyApU1kpQ2LtWa_A2mHZgNnnq8J3pJwMdVzKuCcI9yr_iIBaGQIHesg3OXKvfEA 
+00:27:14.409 I [offline_manager.cpp:2482        ] Offline manager prune stats:
+00:27:14.409 I [offline_manager.cpp:2483        ]     0 files locked in storage
+00:27:14.409 I [offline_manager.cpp:2484        ]     0 files unlocked in storage
+00:27:14.409 I [offline_manager.cpp:2485        ]     0 track keys removed
+00:27:14.409 I [offline_manager.cpp:2486        ]     0 track keys moved to cache
+00:27:14.409 I [offline_manager.cpp:2487        ]     0 episode keys removed
+00:27:14.409 I [offline_manager.cpp:2488        ]     0 episode keys moved to cache
+00:27:14.409 I [offline_manager.cpp:2489        ]     0 keys removed from cache 
+00:27:14.409 I [offline_manager.cpp:2490        ]     0 track keys left in store
+00:27:14.409 I [offline_manager.cpp:2491        ]     0 episode keys left in store
+00:27:14.409 I [offline_manager.cpp:2492        ]   204 keys left in cache
+00:27:14.409 I [offline_manager.cpp:2493        ]     0 local files removed
+00:27:14.464 I [cdn_chunk_downloader.cpp:217    ] Request for file 4015e80e06f9c4468a84cb39d6f58b4ad8585b7e complete (code: success (0))
+00:27:14.464 I [cdn_chunk_downloader.cpp:80     ] Requesting data (4194304 -> 4718592) from CDN url: http://audio-ec.spotify.com/audio/4015e80e06f9c4468a84cb39d6f58b4ad8585b7e?AgEbZSLuMbm8vHp7Jp25w2kXWBzeIMiUdKqtIW4r4kXhCAoOm4b4bI8VksK-zoZBOK9sD7_wLSjZEW9u59IuyApU1kpQ2LtWa_A2mHZgNnnq8J3pJwMdVzKuCcI9yr_iIBaGQIHesg3OXKvfEA 
+00:27:14.635 I [cdn_chunk_downloader.cpp:217    ] Request for file 4015e80e06f9c4468a84cb39d6f58b4ad8585b7e complete (code: success (0))
+00:27:14.635 I [cdn_chunk_downloader.cpp:80     ] Requesting data (4718592 -> 4753548) from CDN url: http://audio-ec.spotify.com/audio/4015e80e06f9c4468a84cb39d6f58b4ad8585b7e?AgEbZSLuMbm8vHp7Jp25w2kXWBzeIMiUdKqtIW4r4kXhCAoOm4b4bI8VksK-zoZBOK9sD7_wLSjZEW9u59IuyApU1kpQ2LtWa_A2mHZgNnnq8J3pJwMdVzKuCcI9yr_iIBaGQIHesg3OXKvfEA 
+00:27:14.668 I [cdn_chunk_downloader.cpp:217    ] Request for file 4015e80e06f9c4468a84cb39d6f58b4ad8585b7e complete (code: success (0))
+00:27:18.131 5 [playlist_be_pl4.cpp:547         ] synchronizePlaylistContainer 'spotify:user:1279076593:publishedrootlist'
+00:27:18.132 3 [playlist_be_pl4_context.cpp:305 ] [spotify:user:1279076593:publishedrootlist] Synchronization starting: DIFF (from revision 407,4461484f8a83a28d262a6ae52c9a752e877266f0) 
+00:27:18.207 5 [playlist_be_pl4_context.cpp:196 ] [spotify:user:1279076593:publishedrootlist] 'DIFF' request complete
+00:27:18.207 3 [playlist_be_pl4_context.cpp:489 ] [spotify:user:1279076593:publishedrootlist]  synchronization error: Hermes error code 405 (unknown)
+00:27:18.207 3 [playlist_be_pl4_context.cpp:598 ] [spotify:user:1279076593:publishedrootlist]   - requesting HEAD from remote.
+00:27:18.207 5 [playlist_be_pl4.cpp:547         ] synchronizePlaylistContainer 'spotify:user:1279076593:publishedrootlist'
+00:27:18.207 3 [playlist_be_pl4_context.cpp:305 ] [spotify:user:1279076593:publishedrootlist] Synchronization starting: GET (full reset) (from revision 407,4461484f8a83a28d262a6ae52c9a752e877266f0) 
+00:27:18.283 5 [playlist_be_pl4_context.cpp:196 ] [spotify:user:1279076593:publishedrootlist] 'GET' request complete
+00:27:18.283 5 [playlist_pc_delta_updater.cpp:30] Add playlist spotify:user:spotify:playlist:0n8NtBn89HS9sSKJEnJijg
+00:27:18.283 5 [playlist_pc_delta_updater.cpp:30] Add playlist spotify:user:1279076593:playlist:0f5Dfq3NhRiotgyFrfkpmq
+00:27:18.283 5 [playlist_pc_delta_updater.cpp:30] Add playlist spotify:user:1279076593:playlist:4JPICJwHeblgokvs3tVkZr
+00:27:18.283 5 [playlist_pc_delta_updater.cpp:30] Add playlist spotify:user:1281334351:playlist:4Mi7fcP81DtjULFyFNMPL9
+00:27:18.283 5 [playlist_pc_delta_updater.cpp:30] Add playlist spotify:user:1281334351:playlist:6gQZwHQnnFvBBjY2h1BKn1
+00:27:18.283 5 [playlist_pc_delta_updater.cpp:30] Add playlist spotify:user:1126175754:playlist:1mdvqb7RjyMECxONwCRppc
+00:27:18.283 5 [playlist_pc_delta_updater.cpp:30] Add playlist spotify:user:1281334351:playlist:3x1952girfpqpQBLBl4jXd
+00:27:18.283 5 [playlist_pc_delta_updater.cpp:30] Add playlist spotify:user:spotify:playlist:0UHbhCjKlXnFfv98bKrtKv
+00:27:18.283 5 [playlist_pc_delta_updater.cpp:30] Add playlist spotify:user:1238963141:playlist:1TVJEBgJiSdiYUBX2y82Ya
+00:27:18.284 5 [playlist_pc_delta_updater.cpp:30] Add playlist spotify:user:lmljoe:playlist:0DXoY83tBvgWkd8QH49yAI
+00:27:18.284 5 [playlist_pc_delta_updater.cpp:30] Add playlist spotify:user:1279076593:playlist:1uBRMxheURhPxP4zfdpeRp
+00:27:18.284 5 [playlist_pc_delta_updater.cpp:30] Add playlist spotify:user:spotify:playlist:3i3jnTWkJKqDTJHkUSZsRl
+00:27:18.284 5 [playlist_pc_delta_updater.cpp:30] Add playlist spotify:user:spotify:playlist:59ZbFPES4DQwEjBpWHzrtC
+00:27:18.284 5 [playlist_pc_delta_updater.cpp:30] Add playlist spotify:user:1279076593:playlist:2fediZ7jxisnQsHBFK6pfa
+00:27:18.284 5 [playlist_pc_delta_updater.cpp:30] Add playlist spotify:user:spotify:playlist:0eDq2STmk8tKcD7qWCwrze
+00:27:18.284 5 [playlist_pc_delta_updater.cpp:30] Add playlist spotify:user:mikexray:playlist:1qFMybGrDz6i7X7bsec7cV
+00:27:18.284 5 [playlist_pc_delta_updater.cpp:30] Add playlist spotify:user:spotify:playlist:0PRs1Xaui4zCv9LdIIt20X
+00:27:18.284 5 [playlist_pc_delta_updater.cpp:30] Add playlist spotify:user:spotify:playlist:2clF8IuETuB6DzmQn7I4RM
+00:27:18.284 5 [playlist_pc_delta_updater.cpp:30] Add playlist spotify:user:1213530957:playlist:78NNe9mWfoh2AJ10WFZv8U
+00:27:18.284 5 [playlist_pc_delta_updater.cpp:30] Add playlist spotify:user:1279076593:playlist:0C5B0DbVSAAAzcZjNNyVVW
+00:27:18.284 5 [playlist_pc_delta_updater.cpp:30] Add playlist spotify:user:gecman:playlist:0yQODxKG6Dbh0v0787KzM7
+00:27:18.284 5 [playlist_pc_delta_updater.cpp:30] Add playlist spotify:user:1279076593:playlist:540oN4FhQoj25pLOIVrVxU
+00:27:18.284 5 [playlist_pc_delta_updater.cpp:30] Add playlist spotify:user:igor.murta:playlist:4Gq5IiN5u12rb5NhKUx37R
+00:27:18.284 5 [playlist_pc_delta_updater.cpp:30] Add playlist spotify:user:1279076593:playlist:0HSkd8b4ci0av4e3Fe9K3v
+00:27:18.284 5 [playlist_pc_delta_updater.cpp:30] Add playlist spotify:user:spotify:playlist:7ECmf74Ey57LAYulSxhL9w
+00:27:18.284 5 [playlist_pc_delta_updater.cpp:30] Add playlist spotify:user:spotify:playlist:3dPHWfYO3veKpIpmYKNb2c
+00:27:18.284 5 [playlist_pc_delta_updater.cpp:30] Add playlist spotify:user:1279076593:playlist:10g0AOdRhXOaTdRjL2Aqkq
+00:27:18.284 5 [playlist_pc_delta_updater.cpp:30] Add playlist spotify:user:spotify:playlist:1OVd37JBX6WIJETW9KHa8B
+00:27:18.284 5 [playlist_pc_delta_updater.cpp:30] Add playlist spotify:user:spotify:playlist:0geFu4KbbAGl6Fteod0QoW
+00:27:18.284 5 [playlist_pc_delta_updater.cpp:30] Add playlist spotify:user:spotify:playlist:2gbwwfwbiWVnNmWZ3Zsy3l
+00:27:18.284 5 [playlist_pc_delta_updater.cpp:30] Add playlist spotify:user:spotifybrazilian:playlist:6vk0xediX3tmx8dj7zJe8V
+00:27:18.284 5 [playlist_pc_delta_updater.cpp:30] Add playlist spotify:user:bbc_playlister:playlist:4TbTH6Rk95yJWZbbUnKNQd
+00:27:18.284 5 [playlist_pc_delta_updater.cpp:30] Add playlist spotify:user:118614068:playlist:0dQ61ukvtuLN7IZybJECZB
+00:27:18.284 5 [playlist_pc_delta_updater.cpp:30] Add playlist spotify:user:1279076593:playlist:0auH6uXhhA2OFiTKMNbd2S
+00:27:18.284 5 [playlist_pc_delta_updater.cpp:30] Add playlist spotify:user:spotify_espa%C3%B1a:playlist:0ua0EfirvWuvwuDfAwiQDR
+00:27:18.284 5 [playlist_pc_delta_updater.cpp:30] Add playlist spotify:user:1279076593:playlist:05iUTNkpRk7z4xqqZBuoeb
+00:27:18.284 5 [playlist_pc_delta_updater.cpp:30] Add playlist spotify:user:1279076593:playlist:440tXVLTwhgYpQim3uTaWJ
+00:27:18.284 5 [playlist_pc_delta_updater.cpp:30] Add playlist spotify:user:spotifybrazilian:playlist:3a4z1dwb3tfpK2ZzKjuGno
+00:27:18.284 5 [playlist_pc_delta_updater.cpp:30] Add playlist spotify:user:1279076593:playlist:0kuQ17CDON2is9qquBFM51
+00:27:18.284 5 [playlist_pc_delta_updater.cpp:30] Add playlist spotify:user:spotify:playlist:6dVqCKDI6gqOaMvVQaJTco
+00:27:18.284 5 [playlist_pc_delta_updater.cpp:30] Add playlist spotify:user:hollywdrecrds:playlist:1xY6msLHX1W34EzB0UkkbU
+00:27:18.284 5 [playlist_pc_delta_updater.cpp:30] Add playlist spotify:user:1279076593:playlist:7bcho7bMpnZcMdMsY3kHki
+00:27:18.284 5 [playlist_pc_delta_updater.cpp:30] Add playlist spotify:user:125897370:playlist:1M9EMLYcGmYIZIxsLT7894
+00:27:18.284 5 [playlist_pc_delta_updater.cpp:30] Add playlist spotify:user:emsc:playlist:6b2Bx6SUjto5zQk6QlkqJc
+00:27:18.284 5 [playlist_pc_delta_updater.cpp:30] Add playlist spotify:user:spotify:playlist:3J3mTk0N0NzDOFgnp67Z75
+00:27:18.284 5 [playlist_pc_delta_updater.cpp:30] Add playlist spotify:user:1279076593:playlist:2hR2ijRF6vMiEGxVyAfdUg
+00:27:18.284 5 [playlist_pc_delta_updater.cpp:30] Add playlist spotify:user:robbyablind:playlist:21K7uTrxXyRsBmiMOU1REV
+00:27:18.284 5 [playlist_pc_delta_updater.cpp:30] Add playlist spotify:user:1279076593:playlist:5mWZtFEtGxfAdhcP96BeI8
+00:27:18.284 5 [playlist_pc_delta_updater.cpp:30] Add playlist spotify:user:1279076593:playlist:2B0s3ZfHC3R7FSnqiCAWof
+00:27:18.284 5 [playlist_pc_delta_updater.cpp:30] Add playlist spotify:user:1279076593:playlist:0ajU4y8ZgwJAMKgrgpHEn7
+00:27:18.284 5 [playlist_pc_delta_updater.cpp:30] Add playlist spotify:user:1281334351:playlist:02ao9s7ZL8RlaYYXAIesDR
+00:27:18.284 5 [playlist_pc_delta_updater.cpp:30] Add playlist spotify:user:1279076593:playlist:2MidnfTM0uPcLUc2g3v5Mm
+00:27:18.284 5 [playlist_pc_delta_updater.cpp:30] Add playlist spotify:user:1279076593:playlist:2rSORF9OhkxuHo3jLVGCsV
+00:27:18.284 5 [playlist_pc_delta_updater.cpp:30] Add playlist spotify:user:1279076593:playlist:37GCu2mjJXMG8UJmRLRiqR
+00:27:18.284 5 [playlist_pc_delta_updater.cpp:30] Add playlist spotify:user:1279076593:playlist:2qa7Mt9K55UDBEmDFdyg5H
+00:27:18.284 5 [playlist_pc_delta_updater.cpp:30] Add playlist spotify:user:1279076593:playlist:5JGdm2myhOv2Mkv9S40jv0
+00:27:18.284 5 [playlist_pc_delta_updater.cpp:30] Add playlist spotify:user:1279076593:playlist:73Miy0RL0A2SEWY8ztN7yf
+00:27:18.284 5 [playlist_pc_delta_updater.cpp:30] Add playlist spotify:user:1279076593:playlist:5NWCXmwTPCY9qstsZzfTuX
+00:27:18.284 5 [playlist_pc_delta_updater.cpp:30] Add playlist spotify:user:1279076593:playlist:7981Z8QsGomv1tRF3vwflF
+00:27:18.285 5 [playlist_pc_delta_updater.cpp:30] Add playlist spotify:user:1279076593:playlist:46h9I4hLjhBmHbrIWyzLqy
+00:27:18.285 5 [playlist_pc_delta_updater.cpp:30] Add playlist spotify:user:1279076593:playlist:3TYf3ppBbUbhGk4caxR5if
+00:27:18.285 3 [playlist_be_pl4_context.cpp:873 ] [spotify:user:1279076593:publishedrootlist] Snapshot-updated to revision 407,4461484f8a83a28d262a6ae52c9a752e877266f0
