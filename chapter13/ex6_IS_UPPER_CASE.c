@@ -3,7 +3,7 @@
 */
 
 #include <stdio.h>
-#define IS_UPPER_CASE(c)    ( ((c) < 'a') ? 1 : 0  )
+#define IS_UPPER_CASE(c)    ( ( (c) >= 'A' && (c) <= 'z') ? 1 : 0  )
 
 int main(void){
     char c = 'C';
