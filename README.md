@@ -16,4 +16,5 @@ Solutions to the exercises in Programming in C (3rd Edition).
  - Chapter 11 - Pointers
  - Chapter 12 - Bit operations
  - Chapter 13 - Preprocessor
+ - Chapter 14 - More on data types
 
