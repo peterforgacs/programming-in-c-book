@@ -15,3 +15,5 @@ Solutions to the exercises in Programming in C (3rd Edition).
  - Chapter 10 - Character Strings
  - Chapter 11 - Pointers
  - Chapter 12 - Bit operations
+ - Chapter 13 - Preprocessor
+
