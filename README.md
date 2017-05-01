@@ -19,6 +19,6 @@ Solutions to the exercises in Programming in C (3rd Edition).
  - Chapter 14 - More on data types
  - Chapter 16 - Input and Output Operations
 
-#Structure
+# Structure
 
 Each chapter has its own directory, the compiled files are in the bin folder.
