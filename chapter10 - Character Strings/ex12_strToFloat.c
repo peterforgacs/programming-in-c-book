@@ -13,9 +13,9 @@ float strToFloat(const char string []){
     int length = lengthOf(string);
     int i, decimalPointLocation;
     float number;
-    float result = 0;
+    float result        = 0;
     float decimalResult = 0;
-    bool minus = false;
+    bool minus          = false;
     
     if ( string[i] == '-'){
         i = 1;

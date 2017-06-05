@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void uppercase ( char string[]){
+void uppercase ( char string[] ){
     int i = 0;
     
     while ( string[i] != '\0' ){
