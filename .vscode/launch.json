@@ -1,0 +1,27 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "(gdb) Launch",
+			"type": "cppdbg",
+			"request": "launch",
+			"program": "${workspaceRoot}/chapter16 - Input and Output Operations/bin/ex03_replaceLowercaseUppercase",
+			"args": [],
+			"stopAtEntry": true,
+			"cwd": "${workspaceRoot}",
+			"environment": [],
+			"externalConsole": true,
+			"linux": {
+				"MIMode": "gdb",
+				"miDebuggerPath": "/usr/bin/gdb"
+			},
+			"setupCommands": [
+			    {
+			        "description": "Enable pretty-printing for gdb",
+			        "text": "-enable-pretty-printing",
+			        "ignoreFailures": true
+			    }
+			]
+		}
+	]
+}
