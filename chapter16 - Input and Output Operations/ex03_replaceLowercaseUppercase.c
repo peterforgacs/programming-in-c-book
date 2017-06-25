@@ -3,24 +3,22 @@
     replacing all lowercase characters with their uppercase equivalents.
 */
 
-// Program to copy one file to an other
-
 #include <stdio.h>
 
 int main (void)
 {
-	char inName[64], outName[64];
-	FILE *in, *out;
+	char inName[64], outName[64];							// Variable that holds the file names
+	FILE *in, *out;											// File pointers
 	int  e;
     char c;
 
-	// get file names from user
+	// Get the file name from the user
 	printf ("Enter the name of the file to be copied: ");
 	scanf ("%63s", inName);
 	printf ("Enter the name of the output file: ");
 	scanf ("%63s", outName);
 
-	// open input and output files
+	// Open input and output file names
 	if ( (in = fopen (inName, "r")) == NULL ){
 		printf ("Can't open %s for reading.\n", inName);
 		return 1;
@@ -31,16 +29,22 @@ int main (void)
 		return 2;
 	}
 
-	// copy in to out
+	// Copy character by character
 	while( (e = getc (in)) != EOF)
-    {
-        c = e;
-        c = c - 'a' + 'A';  // Uppercase
+    {	
+		c = e;
+		
+		// If the character is lowercase
+		if ( 'a' <= e && e <= 'z' )
+		{
+			c = c - 'a' + 'A';  // Turn to uppercase
+		}
+
 		putc (c , out);
     }
 
 	
-	// Close open files
+	// Close files
 	fclose(in);
 	fclose(out);
 
